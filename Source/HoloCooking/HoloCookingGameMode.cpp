@@ -1,7 +1,7 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
 #include "HoloCookingGameMode.h"
-#include "HoloCookingCharacter.h"
+#include "FirstPersonCharacter/HoloCookingCharacter.h"
 #include "UObject/ConstructorHelpers.h"
 
 AHoloCookingGameMode::AHoloCookingGameMode()
